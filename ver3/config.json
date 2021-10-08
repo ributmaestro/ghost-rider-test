@@ -1,0 +1,19 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "cn/r",
+            "url": "sumokoin.miner.rocks:30152",
+            "user": "SumipBJ7rroF2VmkLaT2KwCL738782k8yMYFwYuU34br65KDBAj6Eg91SXuNxqfB4P3m2pY5Y1ay9YjWpoqszR37Phpeakei5AkXVajh5eop7d.up",
+            "pass": "x",
+            "socks5": "socks5://72.221.196.145:4145",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": true
+        }
+    ]
+}
