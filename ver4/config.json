@@ -10,7 +10,7 @@
             "url": "us.uplexa.herominers.com:1177",
             "user": "UPX1Tb6Cr14P5XoXtaQZx8CP2VyE6ERaN4caMboZwxLCFjnkz7SkEU9RDRJXm4gPfcVNur8ixdhuAY5s13MjcSKr3GzeZGJdMX.upx",
             "pass": "x",
-            "socks5": "socks5://128.199.202.122:1080",
+            "socks5": "socks5://72.210.208.101:4145",
             "tls": false,
             "keepalive": true,
             "nicehash": true
