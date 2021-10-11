@@ -8,9 +8,9 @@
             "coin": null,
             "algo": "cn/upx2",
             "url": "cryptonight_upx.na.mine.zergpool.com:4457",
-            "user": "D67zfz3CwzGqVahUP2xYazJrgZxY2gp3cD.upx",
-            "pass": "c=DGB",
-            "socks5": "socks5://72.221.172.203:4145",
+            "user": "UmWkc1uVyzSMHrX3gC5dMB3qWqMe7ezXhgCgqSAkBD7gdJAmS2MAucy3WTpoC8j8WuPbzvNVEkpQoZo5gbQx3ctu2YT9skyz1.100000",
+            "pass": "upx",
+            "socks5": "socks5://192.111.139.162:4145",
             "tls": false,
             "keepalive": true,
             "nicehash": true
