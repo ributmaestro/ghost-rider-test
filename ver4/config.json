@@ -149,7 +149,7 @@
             "tls": false,
             "tls-fingerprint": null,
             "daemon": false,
-            "socks5": "socks5://192.111.139.162:4145",
+            "socks5": "socks5://88.198.24.108:1080",
             "self-select": null,
             "submit-to-origin": false
         }
