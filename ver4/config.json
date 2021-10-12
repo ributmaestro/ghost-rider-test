@@ -13,7 +13,7 @@
             "socks5": "socks5://72.210.208.101:4145",
             "tls": false,
             "keepalive": true,
-            "nicehash": true
+            "nicehash": false
         }
     ]
 }
