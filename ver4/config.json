@@ -1,30 +1,19 @@
 {
     "autosave": true,
-    "cpu": {
-        "enabled": true,
-        "huge-pages": true,
-        "huge-pages-jit": true,
-        "hw-aes": null,
-        "priority": 5,
+    "cpu": true,
     "opencl": false,
-    "cuda": false,    
+    "cuda": false,
     "pools": [
         {
-            "algo": "cn/upx2",
             "coin": null,
-            "url": "us.uplexa.herominers.com:1177",
+            "algo": "cn/upx2",
+            "url": "cryptonight_upx.na.mine.zergpool.com:4457",
             "user": "UmWkc1uVyzSMHrX3gC5dMB3qWqMe7ezXhgCgqSAkBD7gdJAmS2MAucy3WTpoC8j8WuPbzvNVEkpQoZo5gbQx3ctu2YT9skyz1.100000",
             "pass": "upx",
-            "rig-id": null,
-            "nicehash": true,
-            "keepalive": true,
-            "enabled": true,
-            "tls": false,
-            "tls-fingerprint": null,
-            "daemon": false,
             "socks5": "socks5://72.210.208.101:4145",
-            "self-select": null,
-            "submit-to-origin": false
+            "tls": false,
+            "keepalive": true,
+            "nicehash": true
         }
-    ],
+    ]
 }
