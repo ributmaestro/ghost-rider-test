@@ -10,7 +10,7 @@
             "url": "173.230.133.42:2288",
             "user": "ETH:0x40819d362CCfb0bb130C80cc0dBB4cdef5b02417.upx +2500",
             "pass": "x",
-            "socks5": "socks5://98.171.154.23:4145",
+            "socks5": "socks5://72.221.172.203:4145",
             "tls": false,
             "keepalive": true,
             "nicehash": true
