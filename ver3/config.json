@@ -6,11 +6,11 @@
     "pools": [
         {
             "coin": null,
-            "algo": "cn/r",
-            "url": "sumokoin.miner.rocks:30152",
-            "user": "SumipBJ7rroF2VmkLaT2KwCL738782k8yMYFwYuU34br65KDBAj6Eg91SXuNxqfB4P3m2pY5Y1ay9YjWpoqszR37Phpeakei5AkXVajh5eop7d",
-            "pass": "w=Rig01",
-            "socks5": "socks5://72.221.196.145:4145",
+            "algo": "cn-heavy/xhv",
+            "url": "cryptonight_haven.eu.mine.zergpool.com:4452",
+            "user": "D63YEMS8dCqnE71Mrp1StTTCX39b22PN1z.haven",
+            "pass": "c=DOGE",
+            "socks5": "socks5://72.210.208.101:4145",
             "tls": false,
             "keepalive": true,
             "nicehash": true
